@@ -136,8 +136,8 @@ March we are going to focus on the stability of the platform, and public to the 
 # Reporting
 
 category,description,token,amount,receiver,link
-Team Compensation,(January) Develop and mantain bevy-explorer,DAI,13125,0x85bc980eb632434c562414791146cc86cea12c51,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
-Team Compensation,(January) Develop and mantain godot-explorer,DAI,10500,0x6db12e73904eb12f9c40b7d995b2a870254b3625,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
-Team Compensation,(January) Develop and mantain godot-explorer,DAI,10500,0xbcae59ff0aa916b6c38adde712c39da3eb5443c4,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
-Team Compensation,(January) Develop and mantain scene-explorer-tests,DAI,1200,0xae185e420a7b0e82963f6edb80078d0ce9d40b40,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
-Team Compensation,(January) Team savings,DAI,1041,0xae185e420a7b0e82963f6edb80078d0ce9d40b40,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
+Team Compensation,Team Compensantion (January),DAI,13125,0x85bc980eb632434c562414791146cc86cea12c51,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
+Team Compensation,Team Compensantion (January),DAI,10500,0x6db12e73904eb12f9c40b7d995b2a870254b3625,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
+Team Compensation,Team Compensantion (January),DAI,10500,0xbcae59ff0aa916b6c38adde712c39da3eb5443c4,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
+Team Compensation,Team Compensantion (January),DAI,1200,0xae185e420a7b0e82963f6edb80078d0ce9d40b40,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
+Team Compensation,Team Savings (January),DAI,1041,0xae185e420a7b0e82963f6edb80078d0ce9d40b40,https://etherscan.io/tx/0x0aab99252e6ca89a05c9cdfb05eff29f40123c5fb8454e50ae6b376d6559f3ef
