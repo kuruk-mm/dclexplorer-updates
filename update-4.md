@@ -14,7 +14,7 @@ The project is progressing as planned.
 
 ### General highlights:
 
-Last month we improved a lot the Experience of the Application. We implemented the UI needed for a good experience, and have all your needs there. And also we fixed a lot of bugs, we improved the performance and we polish the components.
+Last month we improved a lot the Experience of the Application. We implemented more UI needed for a good experience and also we fixed a lot of bugs, we improved the performance and we polish the components.
 
 ### Detailed Godot highlights:
 
