@@ -77,17 +77,17 @@ You can track the code changed in this month here: https://github.com/decentrala
 
 #### Features
 - UI
--- Built and integrated bevy_dui (data driven ui library)
--- Migrate numerous components to dui (buttons, tabs, combos, text entry, color picker)
--- Add spinner
--- Add dui for login flow
--- Add dui for photobooth
--- Add dui for profile settings
--- Add dui for wearables
--- Add dui for discover page
--- Add dui for map page
--- Add dui for change realm dialog
--- implemented shader for rounded corners / fade border colors
+- - Built and integrated bevy_dui (data driven ui library)
+- - Migrate numerous components to dui (buttons, tabs, combos, text entry, color picker)
+- - Add spinner
+- - Add dui for login flow
+- - Add dui for photobooth
+- - Add dui for profile settings
+- - Add dui for wearables
+- - Add dui for discover page
+- - Add dui for map page
+- - Add dui for change realm dialog
+- - implemented shader for rounded corners / fade border colors
 - Map: download and display variable res images, click to teleport
 - Minimap
 - Load default emotes from remote source
